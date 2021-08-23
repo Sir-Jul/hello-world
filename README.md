@@ -1,2 +1,4 @@
 # hello-world
-A simple Hello World repository
+
+Hello Guys,
+Sir_Jul here, I like Python, Java and Javascript.
